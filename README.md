@@ -1,7 +1,4 @@
-### Hi there, I'm Maia 👋
-<br/>
-- 🌱 I’m currently learning React and Typescript
-<br/><br/><br/>
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiad37&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
